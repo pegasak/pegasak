@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pegasak
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Python & Web Developing
+- 🌱 I’m currently learning Python & Web Developing & C++
 - 📫 How to reach me Kirill05bng@mail.ru
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
